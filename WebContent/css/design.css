@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+.header {
+	background: linear-gradient(to bottom, #ccffff 0%, #ffff66 100%);
+}
+
+.footer {
+	background: linear-gradient(to top, #ccffff 0%, #ffff66 100%);
+	/* position:absolute; */
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+.footer li{
+	display: inline;
+	
+}
+.footer i{
+	font-size: 25px;
+	color: #008080;
+}
+
+hr{
+	border-style: dotted;
+	border-width: 2px;
+	border-color: black;
+}
